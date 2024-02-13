@@ -6,7 +6,6 @@ This Text Editor is a progressive web application (PWA) designed to run in the b
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Questions](#questions)
 
 ## Installation
